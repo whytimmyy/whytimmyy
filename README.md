@@ -21,3 +21,4 @@ I love reading books and playing games
 <img src="https://streak-stats.demolab.com?user=AwesomeSam9523&locale=en&mode=daily&theme=radical&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 <img src="https://awesomesam.vercel.app/api/top-langs?username=whytimmyy&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=false&order=1" height="150" alt="language graph"/>
 </div>
+<img src="https://skillicons.dev/icons?i=python,cpp,js,react,django,mysql,git,tensorflow,vscode" />
